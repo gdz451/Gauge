@@ -1,10 +1,7 @@
 """
-Gauge.py
+Create a progress gauge
 
-Turning the arc function into a guage that starts at angle 315 degrees
-and sweeps 270 degrees
-
-
+This works on the Adafruit FunHouse
 """
 
 import math

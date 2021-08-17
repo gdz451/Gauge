@@ -1,8 +1,7 @@
 """
 Gauge
 
-Turning the arc function into a guage that starts at angle 315 degrees
-and sweeps 270 degrees
+Class to create a 270 degree Progress Gauge
 
 """
 
